@@ -3,5 +3,5 @@
 Project Team Members: Tyler Rayborn, Eric Andersen, Noelle Chalepas, Chase Tullar, Barry Wang
 Change
 =======
-Project Team Members: Tyler Rayborn, Eric Andersen, Noelle Chalepas, Chase Tullar, Barry Wang added some text
+Project Team Members: Tyler Rayborn, Eric Andersen, Noelle Chalepas, Chase Tullar, Barry Wang
 >>>>>>> main
